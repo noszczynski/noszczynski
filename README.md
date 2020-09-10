@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-https://gitlab.com/users/noszczynski/projects
-https://bitbucket.org/noszczynski
-https://codepen.io/adamnoszczynski
-https://codesandbox.io/dashboard/noszczynski
+https://gitlab.com/users/noszczynski/projects<br/>
+https://bitbucket.org/noszczynski<br/>
+https://codepen.io/adamnoszczynski<br/>
+https://codesandbox.io/dashboard/noszczynski<br/>
 
 ### 🔭 I’m currently working on ...
 
-MyStartup app
-code: https://bitbucket.org/Innewit/mystartup-web-app-client/src/develop/
-live: available soon 🔥
+MyStartup app<br/>
+code: https://bitbucket.org/Innewit/mystartup-web-app-client/src/develop/<br/>
+live: available soon 🔥<br/>
 
 
 
@@ -21,16 +21,16 @@ live: available soon 🔥
 
 ### 🌱 I’m currently learning ...
 
-React
-Angular
-Figma
+React<br/>
+Angular<br/>
+Figma<br/>
 
 
 
 ### 📫 How to reach me: ...
 
-messenger: https://www.messenger.com/t/adam.noszczynski
-mail: adam.noszczynski@gmail.com
+messenger: https://www.messenger.com/t/adam.noszczynski<br/>
+mail: adam.noszczynski@gmail.com<br/>
 
 
 
