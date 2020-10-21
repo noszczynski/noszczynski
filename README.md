@@ -9,6 +9,10 @@ https://codesandbox.io/dashboard/noszczynski<br/>
 
 MyStartup app<br/>
 code: https://bitbucket.org/Innewit/mystartup-web-app-client/src/develop/<br/>
+live: https://staging-mystartup.netlify.app/ 🔥<br/>
+
+Angular course<br/>
+code: https://github.com/noszczynski/angular-course/tree/main<br/>
 live: available soon 🔥<br/>
 
 
