@@ -8,10 +8,17 @@ https://codesandbox.io/dashboard/noszczynski<br/>
 ### 🔭 I’m currently working on ...
 
 MyStartup app<br/>
+stack: React + Syled-components + I18n
 code: https://bitbucket.org/Innewit/mystartup-web-app-client/src/develop/<br/>
 live: https://staging-mystartup.netlify.app/ 🔥<br/>
 
 Angular course<br/>
+stack: Angular
+code: https://github.com/noszczynski/angular-course/tree/main<br/>
+live: available soon 🔥<br/>
+
+Blog<br/>
+stack: React + Gatsby + GraphQL + GraphCMS
 code: https://github.com/noszczynski/angular-course/tree/main<br/>
 live: available soon 🔥<br/>
 
