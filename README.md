@@ -20,7 +20,7 @@ live: available soon 🔥<br/>
 Blog<br/>
 stack: React + Gatsby + GraphQL + GraphCMS
 code: https://github.com/noszczynski/angular-course/tree/main<br/>
-live: available soon 🔥<br/>
+live: https://confident-panini-c2961e.netlify.app/ 🔥<br/>
 
 
 
