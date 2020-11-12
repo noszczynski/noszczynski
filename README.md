@@ -22,7 +22,7 @@ live: available soon 🔥<br/>
 
 Kizaeuro.pl<br/>
 stack: React + Styled-components + I18n<br/>
-code: private repo<br/>
+code: private repo 😔<br/>
 live: http://kizaeuro.pl/ or [staging soon] 🔥<br/>
 <br/>
 <br/>
