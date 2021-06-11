@@ -10,10 +10,12 @@ https://codesandbox.io/dashboard/noszczynski<br/>
 <br/>
 ### 🔭 I’m currently working on ...
 
+<!--
 MyStartup app<br/>
 stack: React + Syled-components + I18n + GSAP + Framer-motion<br/>
 code: https://bitbucket.org/Innewit/mystartup-web-app-client/src/develop<br/>
 live: https://staging-mystartup.netlify.app/ 🔥<br/>
+-->
 
 Angular material<br/>
 stack: Angular + Material-design + tests<br/>
