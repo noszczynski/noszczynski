@@ -4,7 +4,7 @@
 
 ### Plenti
 
-The project has been developed by several people for many years. It is a platform for renting consumer electronics of various kinds - drones, consoles, computers, smartphones and others. On my side for many years was the development and maintenance of the Plenti's website, mobile apps (iOS and Android) and admin panel. You can [visit website here](https://plenti.app/pl/discover) or download app here: [Apple App Store](https://apps.apple.com/pl/app/plenti-rent-tech-on-demand/id1432652816?l=pl) | [Android Google Play](https://play.google.com/store/apps/details?id=com.attic.rentalapp&hl=pl).
+The project has been developed by several people, including myself, for many years. It is a platform for renting consumer electronics of various kinds - drones, consoles, computers, smartphones and others. On my side for many years was the development and maintenance of the Plenti's website, mobile apps (iOS and Android) and admin panel. You can [visit website here](https://plenti.app/pl/discover) or download app here: [Apple App Store](https://apps.apple.com/pl/app/plenti-rent-tech-on-demand/id1432652816?l=pl) | [Android Google Play](https://play.google.com/store/apps/details?id=com.attic.rentalapp&hl=pl).
 
 | Main page | Product page |
 |---|---|
