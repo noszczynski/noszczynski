@@ -2,6 +2,14 @@
 
 ## Projects
 
+### Plenti
+
+The project has been developed by several people for many years. It is a platform for renting consumer electronics of various kinds - drones, consoles, computers, smartphones and others. On my side for many years was the development and maintenance of the Plenti's website, mobile apps (iOS and Android) and admin panel. You can [visit website here](https://plenti.app/pl/discover) or download app here: [Apple App Store](https://apps.apple.com/pl/app/plenti-rent-tech-on-demand/id1432652816?l=pl) | [Android Google Play](https://play.google.com/store/apps/details?id=com.attic.rentalapp&hl=pl).
+
+| Main page | Product page |
+|---|---|
+| ![CleanShot 2024-09-17 at 16 20 54@2x](https://github.com/user-attachments/assets/c019ec97-c88e-4be2-b11d-9684e349fe68) | ![CleanShot 2024-09-17 at 16 21 13@2x](https://github.com/user-attachments/assets/660ffdf7-cb71-49a4-9828-19aa13d4e8c1) |
+
 ### AI Assistants
 
 The project was created as an alternative to AI chat. It is a product containing private assistants for various tasks, knowing my private context, current date, able to perform declared tasks. Conversations are recorded similarly to ChatGPT. Agent photos are generated via [Draw Things](https://drawthings.ai/). Technologies used: Langchain, Ollama, OpenAI, Next.js, Tailwind. Mostly used models: gpt-3.5-turbo, gpt-4o, gpt-4o-mini, llama3.
