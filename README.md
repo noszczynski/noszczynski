@@ -70,7 +70,7 @@ Year 2024 in most popular repository in Plenti codebase by commits:
 
 ![CleanShot 2025-02-22 at 14 10 36@2x](https://github.com/user-attachments/assets/1ffd8473-3570-448c-bdd3-117451057477)
 
-Considering only the number of deleted lines my two accounts are second to none:
+Considering only the number of deleted lines (which may indicate optimization and simplification), my two accounts are second to none:
 
 ![CleanShot 2025-02-22 at 14 13 04@2x](https://github.com/user-attachments/assets/b234b4ae-6e87-4018-8002-18f613dfc323)
 
