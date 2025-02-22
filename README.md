@@ -66,6 +66,15 @@ Check out my business account contribution at Plenti: https://github.com/adample
 
 ![github com_adamplenti_tab=overview from=2022-12-01 to=2022-12-31 (2)](https://github.com/user-attachments/assets/b8bc8b28-bbc6-4ec6-a40c-8d166eb92e67)
 
+Year 2024 in most popular repository in Plenti codebase by commits:
+
+![CleanShot 2025-02-22 at 14 10 36@2x](https://github.com/user-attachments/assets/1ffd8473-3570-448c-bdd3-117451057477)
+
+Considering only the number of deleted lines my two accounts are second to none:
+
+![CleanShot 2025-02-22 at 14 13 04@2x](https://github.com/user-attachments/assets/b234b4ae-6e87-4018-8002-18f613dfc323)
+
+
 ## 🏆 Certificates
 
 My training and course completion certificates are available here: https://github.com/noszczynski/certs
