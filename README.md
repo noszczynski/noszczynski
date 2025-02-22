@@ -45,13 +45,15 @@ A project to only view and add code snippets from various programming languages 
 
 ![CleanShot 2024-07-19 at 15 18 59@2x](https://github.com/user-attachments/assets/da6c9b45-7a9d-4559-9740-c8206286f4e7)
 
+## Other things
 
-## Other Repos
+Optimized React Native app build (via Bitrise) performance by 70%, reducing build time from 60 to 18 minutes through systematic infrastructure improvements.
 
-- https://gitlab.com/users/noszczynski/projects
-- https://bitbucket.org/noszczynski
-- https://codepen.io/adamnoszczynski
-- https://codesandbox.io/dashboard/noszczynski
+![bitrise](https://github.com/user-attachments/assets/15e6d40b-3c33-4e0e-b014-fbba2233cdec)
+
+## Certificates
+
+My training and course completion certificates are available here: https://github.com/noszczynski/certs
 
 ## 📫 How to reach me
 
