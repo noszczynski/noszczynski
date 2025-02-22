@@ -56,6 +56,16 @@ Optimized React Native app build (via Bitrise) performance by 70%, reducing buil
 
 ![bitrise](https://github.com/user-attachments/assets/15e6d40b-3c33-4e0e-b014-fbba2233cdec)
 
+### Check out my Github
+
+Check out my business account contribution at Plenti: https://github.com/adamplenti for latest years
+
+![github com_adamplenti_tab=overview from=2022-12-01 to=2022-12-31](https://github.com/user-attachments/assets/694d3216-aa74-4ede-a3aa-ac58506d2a16)
+
+![github com_adamplenti_tab=overview from=2022-12-01 to=2022-12-31 (1)](https://github.com/user-attachments/assets/eeb9da23-cfa8-4a4f-b490-587d7b757358)
+
+![github com_adamplenti_tab=overview from=2022-12-01 to=2022-12-31 (2)](https://github.com/user-attachments/assets/b8bc8b28-bbc6-4ec6-a40c-8d166eb92e67)
+
 ## 🏆 Certificates
 
 My training and course completion certificates are available here: https://github.com/noszczynski/certs
